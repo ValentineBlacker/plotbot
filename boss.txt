@@ -1,0 +1,27 @@
+government
+syndicate
+empire
+dictator
+scientist
+priest
+corporation
+religion
+usurper
+president
+giant monster
+monarch
+emperor
+empress
+senate
+council
+sorceress
+wizard
+god
+goddess
+arch-demon
+arch-angel
+technocracy
+elder dragon
+cult
+alien menace
+conspiracy
